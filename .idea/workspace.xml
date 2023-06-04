@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ba3752f-3e34-4378-9ff1-3fcb74564724" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/maven-package-worcount.run.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp1/IntSumReducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp1/TokenizerMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tp3/SparkKafkaWordCount.java" afterDir="false" />
+    <list default="true" id="7ba3752f-3e34-4378-9ff1-3fcb74564724" name="Changes" comment="TP1-TP3 BigDATA">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +42,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/home/x2p/worcount/input",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
@@ -117,8 +106,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685799021881</updated>
-      <workItem from="1685799029091" duration="12817000" />
+      <workItem from="1685799029091" duration="17005000" />
     </task>
+    <task id="LOCAL-00001" summary="TP1-TP3 BigDATA">
+      <created>1685882686688</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685882686688</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TP1-TP3 BigDATA" />
+    <option name="LAST_COMMIT_MESSAGE" value="TP1-TP3 BigDATA" />
   </component>
 </project>
